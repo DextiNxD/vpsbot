@@ -250,7 +250,7 @@ T: {disk_t}GB | F: {disk_f}GB
 Working For: {currentTime}
 T-DL: {recv} | T-UL: {sent}
 
-Made with ❤️ by Dawn
+𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 ❤️ 𝐁𝐲 𝐌𝐫.𝐒𝐩𝐢𝐝𝐲
 """
 
 #---Thanks for deleting my name ❤️ Appreciate it---#
