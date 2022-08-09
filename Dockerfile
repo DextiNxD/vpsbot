@@ -1,4 +1,4 @@
-FROM anasty17/mltb:arm64
+FROM 412314/mltb:arm64
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
