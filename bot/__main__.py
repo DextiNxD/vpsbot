@@ -61,8 +61,9 @@ def stats(update, context):
 
 def start(update, context):
     buttons = ButtonMaker()
-    buttons.buildbutton("Group☣️", "https://t.me/Spidymirror")
+    buttons.buildbutton("Channel☣️", "https://t.me/YourDemandZone")
     buttons.buildbutton("Owner😎", "https://t.me/Mr_Spidy")
+    buttons.buildbutton("Contact💬", "https://t.me/Mr_SpidyBot")
     reply_markup = InlineKeyboardMarkup(buttons.build_menu(2))
     if CustomFilters.authorized_user(update) or CustomFilters.authorized_chat(update):
         start_string = f'''
