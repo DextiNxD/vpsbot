@@ -69,7 +69,7 @@ class TgUploader:
             osrename(up_path, new_path)
             up_path = new_path
         else:
-            cap_mono = f"<a href="https://www.w3schools.com">Visit W3Schools.com!</a>{file_}</b>"
+            cap_mono = f"{file_}</b>"
         notMedia = False
         thumb = self.__thumb
         self.__is_corrupted = False
